@@ -8,7 +8,7 @@ Program will ask for command line input:
 Enter type of Food: Indian
 Enter City: Pittsburgh
 Enter State: PA
-Enter User ID: Fr12lvqUHN6dmMysQ
+Enter User ID: Fr189vqUHN6dmMysQ
 
 Based on your search, the top 5 Restaurants will be displayed.
 
