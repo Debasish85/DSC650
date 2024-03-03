@@ -9,17 +9,17 @@ Designed and implemented location based static and dynamic recommendation system
 
 Technologies & languages used:
 
-  -Apache Spark
+    -Apache Spark
   
-  -Scala
+    -Scala
   
-  -Python
+    -Python
   
-  -Kafka
+    -Kafka
   
-  -Kibana
+    -Kibana
   
-  -Elastic search
+    -Elastic search
 
 (1) Static Recommendation System
 -- Implemented collaborative filtering to recommend restaurants
