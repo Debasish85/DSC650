@@ -6,13 +6,15 @@ Restaurant Recommendation System bridges the gap between diners’ preferences a
 This work comprises of two recommendation systems in which, one uses the Static data and other uses the real time streaming data. 
 
 Designed and implemented location based static and dynamic recommendation system for restaurants based on user input such as state, city, type of food.
+
 Technologies & languages used:
-Apache Spark
-Scala
-Python
-Kafka
-Kibana
-Elastic search
+
+  Apache Spark
+  Scala
+  Python
+  Kafka
+  Kibana
+  Elastic search
 
 (1) Static Recommendation System
 -- Implemented collaborative filtering to recommend restaurants
