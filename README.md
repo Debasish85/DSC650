@@ -22,8 +22,11 @@ Technologies & languages used:
     -Elastic search
 
 (1) Static Recommendation System
+
 -- Implemented collaborative filtering to recommend restaurants
+
 -- Technologies used => Apache Spark, Scala
 
 (2) Dynamic Recommendation System
+
 -- Used Kafka server for streaming the data, Apache Spark for recommendation and visualization using Kibana
